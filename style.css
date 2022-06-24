@@ -68,6 +68,8 @@ header .menu{
     margin: 10px;
     }
 
+
+
 .btn{
     background-color: #122a57;
     color: white;
@@ -292,6 +294,11 @@ footer .footer{
         margin: auto;
         width: 100%;
         margin-bottom: 20px;
+    }
+
+    .apresentacao img{
+        display: none;
+        
     }
 }
 
